@@ -1,5 +1,10 @@
 ![github banner](https://user-images.githubusercontent.com/71367592/203974562-bc5c8807-3792-44ed-ba69-48326c562811.png)
-<p align=”center”> Hi there, I’m Parth Joshi (@RotenKiwi)👋 </p>
+<h3 align=”center”>
+
+Hi there, I’m <a href=”https://www.yushi.dev/" target=”_blank” rel=”noreferrer”>Yu</a> 👋
+
+</h3>
+  
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
