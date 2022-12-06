@@ -1,14 +1,14 @@
 ![github banner](https://user-images.githubusercontent.com/71367592/203974562-bc5c8807-3792-44ed-ba69-48326c562811.png)
 <h3 align=”center”>
 
-Hi there, I’m Parth 👋
+Hi there, I’m Parth 👋 (alias RotenKiwi)
 
 </h3>
   
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Super Interested in the impact of UI and UX
+- 🌱 I’m currently learning Flutter and ROS.
+- 💞️ I’m looking to collaborate on any projects related or involving Flutter application.
+- 📫 Reach me on joshiparth212@gmail.com 
 
 <!---
 RotenKiwi/RotenKiwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
