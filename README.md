@@ -1,7 +1,7 @@
 ![github banner](https://user-images.githubusercontent.com/71367592/203974562-bc5c8807-3792-44ed-ba69-48326c562811.png)
 <h3 align=”center”>
 
-Hi there, I’m Parth 👋 (alias RotenKiwi)
+Hi there, I’m Parth 👋 (a.k.a RotenKiwi)
 
 </h3>
   
