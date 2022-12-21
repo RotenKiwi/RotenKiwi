@@ -5,7 +5,7 @@ Hi there, I’m Parth 👋 (alias RotenKiwi)
 
 </h3>
   
-- 👀 Super Interested in the impact of UI and UX
+- 👀 Super Interested in cross platform and multi devices application development.
 - 🌱 I’m currently learning Flutter and ROS.
 - 💞️ I’m looking to collaborate on any projects related or involving Flutter application.
 - 📫 Reach me on joshiparth212@gmail.com 
