@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **learning Flutter for other-than mobile devices.** So if you have any expertise please do reach me.
 
-- 👨‍💻 All of my projects are available at [https://github.com/RotenKiwi](https://github.com/RotenKiwi)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/RotenKiwi)
 
-- 📝 I regularly write articles on [https://medium.com/@RotenKiwi](Medium)
+- 📝 I regularly write articles on [Medium](https://medium.com/@RotenKiwi)
 
 - 💬 Ask me about **Flutter, Dart, Android Studios and ROS in python**
 
