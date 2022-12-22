@@ -11,15 +11,15 @@
 
 - 🤝 I’m looking for help with **learning Flutter for other-than mobile devices.** So if you have any expertise please do reach me.
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/RotenKiwi)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/RotenKiwi).
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@RotenKiwi)
+- 📝 I regularly write articles on [Medium](https://medium.com/@RotenKiwi).
 
-- 💬 Ask me about **Flutter, Dart, Android Studios and ROS in python**
+- 💬 Ask me about **Flutter, Dart, Android Studios and ROS in python.**
 
-- 📫 You can reach me at **joshiparth212@gmail.com**
+- 📫 You can reach me at **joshiparth212@gmail.com**.
 
-- ⚡ Fun fact **I play League of Legends (Jungle Main)**
+- ⚡ Fun fact **I play League of Legends (Jungle Main)**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
