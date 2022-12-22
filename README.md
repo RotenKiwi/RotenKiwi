@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RotenKiwi](https://github.com/RotenKiwi)
 
-- 📝 I regularly write articles on [https://medium.com/@RotenKiwi](https://medium.com/@RotenKiwi)
+- 📝 I regularly write articles on [https://medium.com/@RotenKiwi](Medium)
 
 - 💬 Ask me about **Flutter, Dart, Android Studios and ROS in python**
 
