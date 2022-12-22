@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Cross platform application development projects.**
 
-- 🤝 I’m looking for help with **learning Flutter for other-than mobile devices. So if you have any expertise please do reach me.**
+- 🤝 I’m looking for help with **learning Flutter for other-than mobile devices.** So if you have any expertise please do reach me.
 
 - 👨‍💻 All of my projects are available at [https://github.com/RotenKiwi](https://github.com/RotenKiwi)
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Flutter, Dart, Android Studios and ROS in python**
 
-- 📫 How to reach me **joshiparth212@gmail.com**
+- 📫 You can reach me at **joshiparth212@gmail.com**
 
 - ⚡ Fun fact **I play League of Legends (Jungle Main)**
 
