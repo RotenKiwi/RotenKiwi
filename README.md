@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Parth Joshi (alias RotenKiwi)</h1>
-<h3 align="center">A self taught Application developer from India</h3>
+<h3 align="center">A self taught Mobile Application developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/rotenkiwi" target="blank"><img src="https://img.shields.io/twitter/follow/rotenkiwi?logo=twitter&style=for-the-badge" alt="rotenkiwi" /></a> </p>
 
-- 🔭 I’m currently working on **a synchronised application which can be operated simultaneously on Smart Wear and Smart Phones.**
+- 🔭 I’m currently working on **an application for Smart Android TV. (idk what its gonna do, just building something rn)**
 
-- 🌱 I’m currently learning **Flutter and Dart alongside ROS in python.**
+- 🌱 I’m currently learning **Swift alongside ROS in python.**
 
 - 👯 I’m looking to collaborate on **Cross platform application development projects.**
 
-- 🤝 I’m looking for help with **learning Flutter for other-than mobile devices.** So if you have any expertise please do reach me.
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/RotenKiwi).
+- 🤝 I’m looking for help with **learning Flutter for embedded devices.** So if you have any expertise please do reach me.
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@RotenKiwi).
 
-- 💬 Ask me about **Flutter, Dart, Android Studios and ROS in python.**
+- 💬 Ask me about **Flutter, Dart, Kotlin and ROS in python.**
 
 - 📫 You can reach me at **joshiparth212@gmail.com**.
 
